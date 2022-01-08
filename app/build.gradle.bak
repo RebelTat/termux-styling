@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 2
 
      defaultConfig {
         applicationId "com.termux.styling"
         minSdkVersion 21
-        targetSdkVersion 30
+        targetSdkVersion 28
         versionCode 29
         versionName "0.29"
     }
