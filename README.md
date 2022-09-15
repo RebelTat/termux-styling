@@ -3,7 +3,7 @@
 [![Build status](https://github.com/termux/termux-styling/workflows/Build/badge.svg)](https://github.com/termux/termux-styling/actions)
 [![Join the chat at https://gitter.im/termux/termux](https://badges.gitter.im/termux/termux.svg)](https://gitter.im/termux/termux)
 
-A [Termux](https://termux.com/) add-on app to customize the terminal font and
+A [Termux](https://termux.org) add-on app to customize the terminal font and
 color theme.
 
 When developing (or packaging), note that this app needs to be signed with the
@@ -29,7 +29,3 @@ all currently installed plugins.
 2. Select `More...` in the resulting dialog.
 3. Select `Style` in the next dialog.
 4. Click either `CHOOSE COLOR` or `CHOOSE FONT` depending on what you want to customize.
-
-## License
-
-Released under the [GPLv3 license](http://www.gnu.org/licenses/gpl-3.0.en.html).
